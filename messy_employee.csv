@@ -1,0 +1,11 @@
+,EmployeeID,Name,Age,Salary,Department,Join_Date
+0,101.0,Ahmed Khan ,25,45000,IT,2023-01-15
+1,102.0, Fatima Zahra,34,62000,HR,2022-06-30
+2,102.0,fatima zahra,34,62000,hr,2022-06-30
+3,103.0,Mohammed Ali,45,89000,Finance,2021-03-12
+4,104.0,Aisha Hassan,29,52000,Marketing,2024-01-01
+5,105.0,omar farouk,thirty,67000,IT,2023-11-20
+6,106.0,Sara Ahmed,38,999999,Operations,2020-09-05
+7,,Khalid ,52,71000,Finance,2022-02-28
+8,108.0,Nadia Salem,,48000,HR,2023-07-10
+9,109.0,Youssef,41,55000,it,2021-12-01
